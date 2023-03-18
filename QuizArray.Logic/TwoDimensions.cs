@@ -1,6 +1,6 @@
 ﻿namespace QuizArray.Logic
 {
-    public class TwoDimensions
+ public class TwoDimensions
     {
 
         private int[,] _array;
